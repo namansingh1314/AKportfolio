@@ -664,3 +664,58 @@ small {
 .achievement-button:hover {
   background-color: #000; /* Slightly darker shade for hover effect */
 }
+.vegetables-container {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 15px;
+  background-color: #111; /* Darker background for contrast */
+  border-radius: 8px;
+}
+
+.carrot-title {
+  font-size: 2em;
+  color: #517c8d; /* Light blue for main title */
+  border-bottom: 2px solid #517c8d;
+  padding-bottom: 8px;
+}
+
+.broccoli-author {
+  font-size: 1.2em;
+  color: #517c8d;
+}
+
+.potato-doi {
+  font-size: 0.9em;
+  color: #bbb;
+}
+
+.peas-section, .corn-section {
+  margin-top: 20px;
+}
+
+.spinach-subtitle {
+  font-size: 1.3em;
+  color: #517c8d;
+  margin-bottom: 5px;
+}
+
+.lettuce-text {
+  line-height: 1.6;
+  color: #ddd; /* Light grey for text */
+}
+.bean-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #fff; /* White background */
+  color: #000; /* Black text */
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  border: 2px solid #517c8d; /* Light blue border */
+}
+
+.bean-button:hover {
+  background-color: #517c8d; /* Light blue on hover */
+  color: #fff; /* White text on hover */
+}
